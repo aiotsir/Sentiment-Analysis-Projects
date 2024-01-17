@@ -14,6 +14,7 @@ Data files © Original Authors, then, and it has a good Usability score.
 
 Here is the link to my dataset : https://www.kaggle.com/datasets/aiotsir/tweets-about-recession-in-india-2023/data
 
+
 🚀 Key Features:
 
 Conducted sentiment analysis on tweets using the TextBlob library in Python.
@@ -24,6 +25,7 @@ Developed user-centric sentiment analysis by aggregating sentiments based on use
 
 Checked for usernames with varying sentiments over time and identified those with higher retweet counts.
 
+
 🛠️ Tools and Technologies:
 
 Python |
@@ -33,11 +35,13 @@ Matplotlib |
 Seaborn |
 WordCloud
 
+
 💡 Learnings:
 
 Enhanced skills in NLP, sentiment analysis, and data visualization.
 
 Gained practical experience in handling real-world Twitter data and extracting meaningful insights.
+
 
 📈 Impact:
 
