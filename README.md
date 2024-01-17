@@ -9,7 +9,7 @@ This repo contains several Sentiment Analysis use cases. Includes data fetched f
 
 This was an exciting project where I explored sentiment analysis on Twitter data using Python and various NLP techniques. The project involved scraping tweets, cleaning and preprocessing the data, and applying sentiment analysis to gain insights into public opinions.
 
-* Dataset - **My own dataset** in Kaggle. In the year 20223 **I had scraped Tweets from Twitter** on the topic "Recession India" when there was an imminent recession. And I had uploaded this scraped data as a public dataset in kaggle under the License
+* Dataset - **My own dataset** in Kaggle. In the year 2023 **I had scraped Tweets from Twitter** on the topic "Recession India" when there was an imminent recession. And I had uploaded this scraped data as a public dataset in kaggle under the License
 Data files © Original Authors, then, and it has a good Usability score.
 
 Here is the link to my dataset : https://www.kaggle.com/datasets/aiotsir/tweets-about-recession-in-india-2023/data
